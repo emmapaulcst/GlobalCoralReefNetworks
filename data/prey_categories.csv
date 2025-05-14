@@ -1,0 +1,65 @@
+prey;prey_cat
+Coralline_algae;benthic autotrophs
+Cyanobacteria;benthic autotrophs
+Foraminifera;benthic autotrophs
+Macroalgae;benthic autotrophs
+Microalgae;benthic autotrophs
+Seagrass;benthic autotrophs
+Spermatophyta;benthic autotrophs
+Turf;benthic autotrophs
+Inorganic_detritus;detritus
+Organic_detritus;detritus
+Acanthuriformes;fish
+Actinopteri;fish
+Anguilliformes;fish
+Apogonidae;fish
+Eupercaria incertae sedis;fish
+Gobiidae;fish
+Holocentridae;fish
+Mulliformes;fish
+Pomacentridae;fish
+Hemichordata;mobile macroinvertebrate
+Ophiuroidea;mobile macroinvertebrate
+Alpheidae;mobile macroinvertebrate
+Arthropoda;mobile macroinvertebrate
+Caenogastropoda;mobile macroinvertebrate
+Carcinidae;mobile macroinvertebrate
+Cephalopoda;mobile macroinvertebrate
+Cumacea;mobile macroinvertebrate
+Decapoda;mobile macroinvertebrate
+Echinodermata;mobile macroinvertebrate
+Echinoidea;mobile macroinvertebrate
+Galatheidae;mobile macroinvertebrate
+Gastropoda;mobile macroinvertebrate
+Hippolytidae;mobile macroinvertebrate
+Holothuroidea;mobile macroinvertebrate
+Littorinimorpha;mobile macroinvertebrate
+Majidae;mobile macroinvertebrate
+Mollusca;mobile macroinvertebrate
+Neogastropoda;mobile macroinvertebrate
+Paguridae;mobile macroinvertebrate
+Polyplacophora;mobile macroinvertebrate
+Portunidae;mobile macroinvertebrate
+Pycnogonida;mobile macroinvertebrate
+Rhynchocinetidae;mobile macroinvertebrate
+Scaphopoda;mobile macroinvertebrate
+Sipuncula;mobile macroinvertebrate
+Stomatopoda;mobile macroinvertebrate
+Tanaidacea;mobile macroinvertebrate
+Trochida;mobile macroinvertebrate
+Xanthidae;mobile macroinvertebrate
+Amphipoda;mobile microinvertebrate
+Annelida;mobile microinvertebrate
+Harpacticoida;mobile microinvertebrate
+Isopoda;mobile microinvertebrate
+Nematoda;mobile microinvertebrate
+Anthozoa;sessile benthic invertebrate
+Ascidiacea;sessile benthic invertebrate
+Bivalvia;sessile benthic invertebrate
+Bryozoa;sessile benthic invertebrate
+Chordata;sessile benthic invertebrate
+Cirripedia;sessile benthic invertebrate
+Hydrozoa;sessile benthic invertebrate
+Porifera;sessile benthic invertebrate
+Copepoda;zooplankton
+Zooplankton;zooplankton
